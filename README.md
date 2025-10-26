@@ -1,0 +1,2 @@
+# scc
+Small C Compiler
